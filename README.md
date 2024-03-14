@@ -5,6 +5,10 @@ Perkenalkan nama saya **Ziko Listiyanto**.<br>
 Saya seorang **Mahasiswa** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
  
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagramku](https://www.instagram.com/zeeqo_0/) ya.
+
+### 🤝 Connect with me:
+
+[<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
  
 ### Github Statistic
 <p align="left">
@@ -13,3 +17,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagramku](h
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zikolistiyanto&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+[instagram]: https://instagram.com/Zeeqo_0
