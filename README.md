@@ -6,7 +6,7 @@
 <img hight="400" width="500" alt="GIF" align="center" src="https://github.com/zikolistiyanto/zikolistiyanto/blob/main/assets/PROGRAMMER.gif">
  
 Hello~~ My Name is **Ziko Listiyanto**.<br>
-i am a **Student** at [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
+i am a **Student** at [Universita AKPRIND Indonesia](https://www.akprind.ac.id/).<br>
 
 <div><br><br>
  
